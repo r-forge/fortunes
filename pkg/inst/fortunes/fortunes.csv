@@ -400,3 +400,4 @@ Brodie Gaslam: Happy new decade.<x>Herve Pages:<x>  *** caught segfault ***<x>co
 In my opinion the advantage of computers is not Artificial Intelligence, but rather Artificial Patience.;Greg Snow;in response to a question about automated R analysis, arguing that computers are good at doing tasks fast that humans find boring;R-help;May 2020
 I'm too lazy to provide a difficult way.;Jim Lemon;suggesting an easy use of table() instead of looping through a data frame;R-help;July 2020
 I can read most HTML messages well enough. Be thankful they're not sending TikTok videos.;Jim Lemon;in a discussion about HTML e-mails on R mailing lists;R-help;January 2022
+I would strongly discourage following any advice from blogs as they tend to be outdated, wrong or both.;Simon Urbanek;in a discussion about installing gfortran on macOS;R-SIG-Mac;April 2022
