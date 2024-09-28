@@ -404,3 +404,4 @@ I would strongly discourage following any advice from blogs as they tend to be o
 Truly I love R but you do have to appreciate a certain level of sprawling chaos to feel at home here.;Danielle Navarro;commenting on the dot that may or may not denote an S3 method;Twitter;September 2022
 "Wang Minjie: I'm confused. `%>%` or `|>`, which one should I choose?<x>Barry Rowlingson: Use the base pipe `->.;` from R version 3 and upwards.";Wang Minjie and Barry Rowlingson;NA;Twitter;September 2022
 There's already enough noise in time series data. We don't need ChatGPT adding even more noise.;Joshua Ulrich;in response to a post that shared incorrect advice obtained from ChatGPT;R-SIG-Finance;May 2023
+"Python users often ask if a solution is ""pythonic"". But I am not aware of R users having any special name like ""R-thritic"" and that may be a good thing.";Avi E. Gross;NA;R-help;September 2024
