@@ -406,3 +406,4 @@ Truly I love R but you do have to appreciate a certain level of sprawling chaos 
 There's already enough noise in time series data. We don't need ChatGPT adding even more noise.;Joshua Ulrich;in response to a post that shared incorrect advice obtained from ChatGPT;R-SIG-Finance;May 2023
 "Python users often ask if a solution is ""pythonic"". But I am not aware of R users having any special name like ""R-thritic"" and that may be a good thing.";Avi E. Gross;NA;R-help;September 2024
 "Finally, my best advice would be to forget about SAS if you wish to use R. Trying to translate SAS paradigms into R is the devil's work.";Bert Gunter;on data manipulation strategies in R vs. SAS;R-help;December 2024
+As Dante wrote, Abandon all hope ye who enter R.;Ivo Welch;in a discussion about mean() and sd() handling the na.rm argument slightly differently;R-help;December 2024
